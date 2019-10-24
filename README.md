@@ -6,6 +6,8 @@
 
 **(문법을 분석, 중요한 단어를 추출해서 단어장을 만들어 제공하는 기능은 오직 LEBPS에서 제공합니다.)**
 
+# 설치 안내(Installation Process)
+
 # 필수 조건 안내 (Prerequisites)
 **SDK version**
 compileSdkVersion 28
@@ -86,8 +88,22 @@ LEBPS에는 유튜브를 통해서 음악을 실행 할 수 있는 기능을 지원합니다.
 		 - WordTestAdapter.class : 추출된 단어들을 ListView에 업로드 하기 위한 클래스
 	 - MainActivity : Musixmatch API를 사용하여 음악을 검색하고 메인화면을 처리하는 액티비티 클래스
 	 - ListViewAdapter : 메인화면의 음악리스트에 정보를 업로드하기 위한 클래스
-## 배포자 및 개발자의 연락처 정보 (Contact Information)
+
+# 저작권 및 사용권 정보 (Copyright / End User License)
+
+LEBPS에서 사용하는 아이콘, 사진은 무료 저작권 사이트에서 참조되었습니다.
+참조 사이트 : [https://unsplash.com/](https://unsplash.com/)
+
+# 배포자 및 개발자의 연락처 정보 (Contact Information)
 
 Name : Jae Seong Lee
 phone :  +821025066791	
 email :  lee01042000@gmail.com
+
+# 알려진 버그 (Known Issues)
+
+# 문제 발생에 대한 해결책 (Troubleshooting)
+
+# 크레딧 (Credit)
+
+# 업데이트 정보 (Change Log)
