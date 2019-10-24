@@ -1,109 +1,112 @@
-# LEBPS¶õ?
+# LEBPSë€?
 
-¿ì¸®´Â ´ëÇĞ¿¡ ¿À°í ÀÚ¿¬½º·¯¿î **¿ø¾î¹Î ¿µ¾î**¸¦ °øºÎÇÏ±â À§ÇØ¼­´Â **ÆË¼Û**À» ÀÚÁÖ µè°Å³ª ¹Ì±¹ µå¶ó¸¶¸¦ ÀÚÁÖ ½ÃÃ»ÇÏ¶ó´Â ¸»À» µéÀº ÀûÀÌ ÀÖ½À´Ï´Ù.
+ìš°ë¦¬ëŠ” ëŒ€í•™ì— ì˜¤ê³  ìì—°ìŠ¤ëŸ¬ìš´ **ì›ì–´ë¯¼ ì˜ì–´**ë¥¼ ê³µë¶€í•˜ê¸° ìœ„í•´ì„œëŠ” **íŒì†¡**ì„ ìì£¼ ë“£ê±°ë‚˜ ë¯¸êµ­ ë“œë¼ë§ˆë¥¼ ìì£¼ ì‹œì²­í•˜ë¼ëŠ” ë§ì„ ë“¤ì€ ì ì´ ìˆìŠµë‹ˆë‹¤.
 
-¿ø¾î¹Î ¿µ¾î¸¦ °øºÎÇÏ°í ½ÍÀº ±º Àåº´, ´ëÇĞ»ı ±×¸®°í ¸¹Àº »ç¶÷µéÀ» À§ÇØ¼­ **LEBPS**( Learning English By Pop Song)´Â ÆË¼ÛÀ» ¹ø¿ªÇØ¼­  **¹ø¿ªº»À» Á¦°ø**ÇÏ°í  **¸Ó½Å·¯´×**À» ÅëÇØ **¹®¹ıÀ» ºĞ¼®**ÇÏ¿© Áß¿äÇÑ ´Ü¾î¸¦ ÃßÃâÇØ ´Ü¾îÀåÀ» ¸¸µé¾î Á¦°øÇÏ´Â µî ¿µ¾î°øºÎ¸¦ µµ¿ï ¼ö ÀÖµµ·Ï ÇÏ´Â ´Ù¾çÇÑ ±â´ÉµéÀ» Á¦°øÇÕ´Ï´Ù.
+ì›ì–´ë¯¼ ì˜ì–´ë¥¼ ê³µë¶€í•˜ê³  ì‹¶ì€ êµ° ì¥ë³‘, ëŒ€í•™ìƒ ê·¸ë¦¬ê³  ë§ì€ ì‚¬ëŒë“¤ì„ ìœ„í•´ì„œ **LEBPS**( Learning English By Pop Song)ëŠ” íŒì†¡ì„ ë²ˆì—­í•´ì„œ  **ë²ˆì—­ë³¸ì„ ì œê³µ**í•˜ê³   **ë¨¸ì‹ ëŸ¬ë‹**ì„ í†µí•´ **ë¬¸ë²•ì„ ë¶„ì„**í•˜ì—¬ ì¤‘ìš”í•œ ë‹¨ì–´ë¥¼ ì¶”ì¶œí•´ ë‹¨ì–´ì¥ì„ ë§Œë“¤ì–´ ì œê³µí•˜ëŠ” ë“± ì˜ì–´ê³µë¶€ë¥¼ ë„ìš¸ ìˆ˜ ìˆë„ë¡ í•˜ëŠ” ë‹¤ì–‘í•œ ê¸°ëŠ¥ë“¤ì„ ì œê³µí•©ë‹ˆë‹¤.
 
-**(¹®¹ıÀ» ºĞ¼®, Áß¿äÇÑ ´Ü¾î¸¦ ÃßÃâÇØ¼­ ´Ü¾îÀåÀ» ¸¸µé¾î Á¦°øÇÏ´Â ±â´ÉÀº ¿ÀÁ÷ LEBPS¿¡¼­ Á¦°øÇÕ´Ï´Ù.)**
+**(ë¬¸ë²•ì„ ë¶„ì„, ì¤‘ìš”í•œ ë‹¨ì–´ë¥¼ ì¶”ì¶œí•´ì„œ ë‹¨ì–´ì¥ì„ ë§Œë“¤ì–´ ì œê³µí•˜ëŠ” ê¸°ëŠ¥ì€ ì˜¤ì§ LEBPSì—ì„œ ì œê³µí•©ë‹ˆë‹¤.)**
 
-# ¼³Ä¡ ¾È³»(Installation Process)
+# ì„¤ì¹˜ ì•ˆë‚´(Installation Process)
 
-# ÇÊ¼ö Á¶°Ç ¾È³» (Prerequisites)
+# í•„ìˆ˜ ì¡°ê±´ ì•ˆë‚´ (Prerequisites)
 **SDK version**
 compileSdkVersion 28
 minSdkVersion 15
 
-**ºÎ°¡ Á¶°Ç** 
-LEBPS¿¡´Â À¯Æ©ºê¸¦ ÅëÇØ¼­ À½¾ÇÀ» ½ÇÇà ÇÒ ¼ö ÀÖ´Â ±â´ÉÀ» Áö¿øÇÕ´Ï´Ù.
-¾îÇÃ¸®ÄÉÀÌ¼ÇÀÌ ½ÇÇàµÇ´Â ¿¡¹Ä·¹ÀÌÅÍ³ª °³ÀÎ ½º¸¶Æ®Æù¿¡¼­ À¯Æ©ºê°¡ ¼³Ä¡µÇ¾îÀÖ¾î¾ß ÇØ´ç ±â´ÉÀ» ½ÇÇà ÇÒ ¼ö ÀÖÀ¸¹Ç·Î À¯Æ©ºê¸¦ ¼³Ä¡ÇÏ°Å³ª ÃÖ½Å¹öÀüÀ¸·Î ¾÷µ¥ÀÌÆ® ÇØ¾ßÇÕ´Ï´Ù.
+**ë¶€ê°€ ì¡°ê±´** 
+LEBPSì—ëŠ” ìœ íŠœë¸Œë¥¼ í†µí•´ì„œ ìŒì•…ì„ ì‹¤í–‰ í•  ìˆ˜ ìˆëŠ” ê¸°ëŠ¥ì„ ì§€ì›í•©ë‹ˆë‹¤.
+ì–´í”Œë¦¬ì¼€ì´ì…˜ì´ ì‹¤í–‰ë˜ëŠ” ì—ë®¬ë ˆì´í„°ë‚˜ ê°œì¸ ìŠ¤ë§ˆíŠ¸í°ì—ì„œ ìœ íŠœë¸Œê°€ ì„¤ì¹˜ë˜ì–´ìˆì–´ì•¼ í•´ë‹¹ ê¸°ëŠ¥ì„ ì‹¤í–‰ í•  ìˆ˜ ìˆìœ¼ë¯€ë¡œ ìœ íŠœë¸Œë¥¼ ì„¤ì¹˜í•˜ê±°ë‚˜ ìµœì‹ ë²„ì „ìœ¼ë¡œ ì—…ë°ì´íŠ¸ í•´ì•¼í•©ë‹ˆë‹¤.
 
-# »ç¿ë¹ı ¹× ±â´É
+# ì‚¬ìš©ë²• ë° ê¸°ëŠ¥
 
-## 1) À½¾Ç°Ë»ö
+## 1) ìŒì•…ê²€ìƒ‰
 
-**¸ŞÀÎÈ­¸é**¿¡¼­ Á¦¸ñ°ú ¾ÆÆ¼½ºÆ®ÀÇ Á¤º¸¸¦ ÀÔ·ÂÇØ¼­ À½¾ÇÀ» °¡Á®¿Ã ¼ö ÀÖ½À´Ï´Ù.
+**ë©”ì¸í™”ë©´**ì—ì„œ ì œëª©ê³¼ ì•„í‹°ìŠ¤íŠ¸ì˜ ì •ë³´ë¥¼ ì…ë ¥í•´ì„œ ìŒì•…ì„ ê°€ì ¸ì˜¬ ìˆ˜ ìˆìŠµë‹ˆë‹¤.
 
 ![enter image description here](https://lh3.googleusercontent.com/plfvby97AagmRNOC4tmDVHQU9QcgIn_jDSkMMheTOkt_mHIk81yBfcBfa1JepoeVY3_qq1zZcazI)![enter image description here](https://lh3.googleusercontent.com/93duheQzk_eb7hDgL0-66VJveMWOWE13BfudqWOhtNT0HdT5eiCAg9n6jev3Fs66p1woBsZdPCTV)![enter image description here](https://lh3.googleusercontent.com/5qE-hPsxyeUiAEdQ8k-cHFfxOi-IdGUqIZk9iPeUNw24a0NBB5TahU2r0Worpfy34TfnznO5fdPb)   
-**ºÎ°¡±â´É**
+**ë¶€ê°€ê¸°ëŠ¥**
 
-1. ¸®½ºÆ®¿¡ ÀÖ´Â À½¾Ç¿¡¼­ ÇÃ·¹ÀÌ¹öÆ°À» Å¬¸¯ÇÒ °æ¿ì ÀÚµ¿À¸·Î À¯Æ©ºê¿¡ °Ë»öÀÌ µÇ¾î À½¾ÇÀ» °¨»ó ÇÒ ¼ö ÀÖ½À´Ï´Ù.
-2. À½¾ÇÀÇ Á¦¸ñÀ» ÀÔ·ÂÇÏÁö ¾Ê°í ¾ÆÆ¼½ºÆ®¸¸ ÀÔ·ÂÇÒ °æ¿ì ÇØ´ç ¾ÆÆ¼½ºÆ®ÀÇ ÀÎ±âÀÖ´Â À½¾Ç 10°³¸¦ ÀÚµ¿À¸·Î ¼±Á¤ÇØ¼­ À½¾Ç ¸®½ºÆ®¿¡ Ãß°¡ ÇÕ´Ï´Ù.
-3. Á¦¸ñ°ú ¾ÆÆ¼½ºÆ®¸¦ ¿Ïº®È÷ ÀÏÄ¡½ÃÅ°Áö ¾Ê°í ºñ½ÁÇÏ°Ô ÀÔ·ÂÇØµµ ¾îÇÃ¸®ÄÉÀÌ¼ÇÀÌ ÀÚµ¿À¸·Î ÆÄ¾ÇÇØ¼­ À½¾ÇÀ» Ãß°¡ ÇÒ ¼ö ÀÖ½À´Ï´Ù. 
-( ±×·¯³ª ³Ê¹« ¸ğÈ£ÇÑ ÀÔ·ÂÀÏ °æ¿ì ÀÔ·Â³»¿ë È®ÀÎ ¸Å¼¼Áö°¡ »ı¼ºµÇ¸ç À½¾ÇÀº Ãß°¡µÇÁö ¾Ê½À´Ï´Ù.)
+1. ë¦¬ìŠ¤íŠ¸ì— ìˆëŠ” ìŒì•…ì—ì„œ í”Œë ˆì´ë²„íŠ¼ì„ í´ë¦­í•  ê²½ìš° ìë™ìœ¼ë¡œ ìœ íŠœë¸Œì— ê²€ìƒ‰ì´ ë˜ì–´ ìŒì•…ì„ ê°ìƒ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.
+2. ìŒì•…ì˜ ì œëª©ì„ ì…ë ¥í•˜ì§€ ì•Šê³  ì•„í‹°ìŠ¤íŠ¸ë§Œ ì…ë ¥í•  ê²½ìš° í•´ë‹¹ ì•„í‹°ìŠ¤íŠ¸ì˜ ì¸ê¸°ìˆëŠ” ìŒì•… 10ê°œë¥¼ ìë™ìœ¼ë¡œ ì„ ì •í•´ì„œ ìŒì•… ë¦¬ìŠ¤íŠ¸ì— ì¶”ê°€ í•©ë‹ˆë‹¤.
+3. ì œëª©ê³¼ ì•„í‹°ìŠ¤íŠ¸ë¥¼ ì™„ë²½íˆ ì¼ì¹˜ì‹œí‚¤ì§€ ì•Šê³  ë¹„ìŠ·í•˜ê²Œ ì…ë ¥í•´ë„ ì–´í”Œë¦¬ì¼€ì´ì…˜ì´ ìë™ìœ¼ë¡œ íŒŒì•…í•´ì„œ ìŒì•…ì„ ì¶”ê°€ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤. 
+( ê·¸ëŸ¬ë‚˜ ë„ˆë¬´ ëª¨í˜¸í•œ ì…ë ¥ì¼ ê²½ìš° ì…ë ¥ë‚´ìš© í™•ì¸ ë§¤ì„¸ì§€ê°€ ìƒì„±ë˜ë©° ìŒì•…ì€ ì¶”ê°€ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤.)
 ![enter image description here](https://lh3.googleusercontent.com/H_1Z57eLP0DmhIeRYihGI44jiZGWObhAPuYt_xVfS0Px1azoo8IoLSJ7Y3Oh7fvnoFEgZtLQRxRd)![enter image description here](https://lh3.googleusercontent.com/Y9SwXIhaA6ES9rBfEsoFgEPz-GmHLnH7JMdPV3AA3YxXCMTzqofhml_HeXVQJy5HeiMD7KtN0LG_) ![enter image description here](https://lh3.googleusercontent.com/cS7I_lRxXsFsMwGF9DiNkHYX7HdS9fhseOK6L3Wc7jaGhuoX4YTysGEAS68xJApH3j3n0s6VC8OS) ![enter image description here](https://lh3.googleusercontent.com/4kEhP7-iYPfv9Uji5aC92yhlsXeHYflwi_jA4hL6Q7DZxTWEtQX2q3b8rjB5uKBzjX6gdeEHgVbH)
 
-## 2) °¡»ç, ¹ø¿ª
+## 2) ê°€ì‚¬, ë²ˆì—­
 
-¸ŞÀÎÈ­¸éÀÇ ¸®½ºÆ®¿¡¼­ ¿øÇÏ´Â À½¾ÇÀ» Å¬¸¯ÇÏ¸é ÇØ´ç À½¾Ç¿¡ ´ëÇÑ Á¤º¸¸¦ º¸¿©ÁÖ´Â ¾×Æ¼ºñÆ¼·Î ÀÌµ¿ÇÏ¿© °Ë»öÇÑ À½¾ÇÀÇ ¿ø¹®°¡»ç¿Í **Google Translation API**¸¦ ÀÌ¿ëÇØ ¹ø¿ªµÈ °¡»ç¸¦ Á¦°øÇÕ´Ï´Ù. (ex. Maroon5 - Best 4 U)
+ë©”ì¸í™”ë©´ì˜ ë¦¬ìŠ¤íŠ¸ì—ì„œ ì›í•˜ëŠ” ìŒì•…ì„ í´ë¦­í•˜ë©´ í•´ë‹¹ ìŒì•…ì— ëŒ€í•œ ì •ë³´ë¥¼ ë³´ì—¬ì£¼ëŠ” ì•¡í‹°ë¹„í‹°ë¡œ ì´ë™í•˜ì—¬ ê²€ìƒ‰í•œ ìŒì•…ì˜ ì›ë¬¸ê°€ì‚¬ì™€ **Google Translation API**ë¥¼ ì´ìš©í•´ ë²ˆì—­ëœ ê°€ì‚¬ë¥¼ ì œê³µí•©ë‹ˆë‹¤. (ex. Maroon5 - Best 4 U)
 ![enter image description here](https://lh3.googleusercontent.com/XPWMBvcM_RabfYknam87iAIocJvKHfZ9Uu7KGGBT3XcejHX1na2j0oM6bwUuGl6cfdlkHKkrIdlI)![enter image description here](https://lh3.googleusercontent.com/4BmZ_dHcBSPJhsvBuz68lPdb4gSwHYNCSCQVyjDyjoyLk5kr26s-BFpWVu1udz-MPpaB2vsq47IN)![enter image description here](https://lh3.googleusercontent.com/PVRTLHKzQwfTkwT-OPUIRDu7alohHm2DWcfKif0UwzvtcgfoXZ_cWuG93s-LUhJPVuUr_f1q797V)
 
-## 3) ´Ü¾îÀå, ¹®¹ıºĞ¼® 
-¿ø¹® °¡»ç¸¦ Google ML Natural Language API¸¦ ÅëÇØ¼­ ¹®¹ıÀ» ºĞ¼®ÇÏ°í Áß¿äÇÑ µ¿»ç, ¸í»ç¸¦ ÃßÃâÇÏ¿© ´Ü¾îÀåÀ» ¸¸µé¾î Á¦°øÇÏ°í ¿ø¹® °¡»çÀÇ °¢ ´Ü¾î¿¡ ¹®¹ı ÅÂ±×¸¦ ¸ÊÇÎÇÑ Á¤º¸¸¦ Á¦°øÇÕ´Ï´Ù.
-(À§ ±â´ÉÀº ´Ù¼Ò ½Ã°£ÀÌ °É¸®¹Ç·Î Ã³À½¿¡´Â ³»¿ëÀÌ ¾È º¸ÀÏ ¼ö ÀÖÁö¸¸ ±â´Ù¸®¸é Ãß°¡µË´Ï´Ù.)
+## 3) ë‹¨ì–´ì¥, ë¬¸ë²•ë¶„ì„ 
+ì›ë¬¸ ê°€ì‚¬ë¥¼ Google ML Natural Language APIë¥¼ í†µí•´ì„œ ë¬¸ë²•ì„ ë¶„ì„í•˜ê³  ì¤‘ìš”í•œ ë™ì‚¬, ëª…ì‚¬ë¥¼ ì¶”ì¶œí•˜ì—¬ ë‹¨ì–´ì¥ì„ ë§Œë“¤ì–´ ì œê³µí•˜ê³  ì›ë¬¸ ê°€ì‚¬ì˜ ê° ë‹¨ì–´ì— ë¬¸ë²• íƒœê·¸ë¥¼ ë§µí•‘í•œ ì •ë³´ë¥¼ ì œê³µí•©ë‹ˆë‹¤.
+(ìœ„ ê¸°ëŠ¥ì€ ë‹¤ì†Œ ì‹œê°„ì´ ê±¸ë¦¬ë¯€ë¡œ ì²˜ìŒì—ëŠ” ë‚´ìš©ì´ ì•ˆ ë³´ì¼ ìˆ˜ ìˆì§€ë§Œ ê¸°ë‹¤ë¦¬ë©´ ì¶”ê°€ë©ë‹ˆë‹¤.)
 
 
 ![enter image description here](https://lh3.googleusercontent.com/NaBlvTZO3GbU4JKiyxr7BvZJX_hr4vO7NX0fzYgPXV0CrqmhxG1PuTjBnChJKF1ZC0A5-8dsmGOc)![enter image description here](https://lh3.googleusercontent.com/_SS4mSNxNwZzXLoCpThNvNYV4oVghr7vknC1UEtQ3lTxVDGGus_QrT7GZuJUkXL5lHg2LHCmgozN)
 
-## 4. ³ª¸¸ÀÇ ´Ü¾îÀå
-1. ´Ü¾îÀå¿¡¼­ ÀÚ½ÅÀÌ ¿øÇÏ´Â ´Ü¾î¸¦ Å¬¸¯ÇÒ °æ¿ì ³ª¸¸ÀÇ ´Ü¾îÀå¿¡ Ãß°¡µÇ¾î ÀÚÁÖ º¸°í ¿Ü¿ì°í ½ÍÀº ´Ü¾î¸¦ µû·Î º¼ ¼ö ÀÖ½À´Ï´Ù.
-(³ª¸¸ÀÇ ´Ü¾îÀåÀº ¸ğµç À½¾ÇÁ¤º¸ ¾×Æ¼ºñÆ¼¿¡¼­ µ¿ÀÏÇÑ ³»¿ëÀ» º¸¿©Áİ´Ï´Ù.)
-2. ³ª¸¸ÀÇ ´Ü¾îÀå¿¡¼­ ÇÏ³ªÀÇ ´Ü¾î¸¦ ²Ú ´©¸£¸é »èÁ¦ È®ÀÎ ¸Ş¼¼Áö°¡ »ı¼ºµÇ¸ç "È®ÀÎ"¹öÆ°À» ´©¸¦ °æ¿ì ÇØ´ç ´Ü¾î°¡ ³ª¸¸ÀÇ ´Ü¾îÀå¿¡¼­ »èÁ¦µË´Ï´Ù.
+## 4. ë‚˜ë§Œì˜ ë‹¨ì–´ì¥
+1. ë‹¨ì–´ì¥ì—ì„œ ìì‹ ì´ ì›í•˜ëŠ” ë‹¨ì–´ë¥¼ í´ë¦­í•  ê²½ìš° ë‚˜ë§Œì˜ ë‹¨ì–´ì¥ì— ì¶”ê°€ë˜ì–´ ìì£¼ ë³´ê³  ì™¸ìš°ê³  ì‹¶ì€ ë‹¨ì–´ë¥¼ ë”°ë¡œ ë³¼ ìˆ˜ ìˆìŠµë‹ˆë‹¤.
+(ë‚˜ë§Œì˜ ë‹¨ì–´ì¥ì€ ëª¨ë“  ìŒì•…ì •ë³´ ì•¡í‹°ë¹„í‹°ì—ì„œ ë™ì¼í•œ ë‚´ìš©ì„ ë³´ì—¬ì¤ë‹ˆë‹¤.)
+2. ë‚˜ë§Œì˜ ë‹¨ì–´ì¥ì—ì„œ í•˜ë‚˜ì˜ ë‹¨ì–´ë¥¼ ê¾¹ ëˆ„ë¥´ë©´ ì‚­ì œ í™•ì¸ ë©”ì„¸ì§€ê°€ ìƒì„±ë˜ë©° "í™•ì¸"ë²„íŠ¼ì„ ëˆ„ë¥¼ ê²½ìš° í•´ë‹¹ ë‹¨ì–´ê°€ ë‚˜ë§Œì˜ ë‹¨ì–´ì¥ì—ì„œ ì‚­ì œë©ë‹ˆë‹¤.
 
 ![enter image description here](https://lh3.googleusercontent.com/jvJom9sWHmb2PfRds_97Uh5_FLI-UvQROoMmIfhiv-BbUNKkYwuhSUju3DYJKH1-A8l_h0PfQX5q)![enter image description here](https://lh3.googleusercontent.com/Ev50hyTFLmLRru3r5rBRbl5HgAwsczQF4HP-CODwKcEJdeWVr_6HsCFfGXZ5IJoQMhW-xYACMhWn)![enter image description here](https://lh3.googleusercontent.com/q6aeaHyTj_ZilG1fdKwWammA0mf-wjnQcvGvDJprtyox1k-E0yujLYrJD4W_Ga3gDQqxOo3c9jft)
 
-## ¿À´ÃÀÇ ´Ü¾î
-1. ³ª¸¸ÀÇ ´Ü¾îÀå¿¡ 10°³ ÀÌ»óÀÇ ´Ü¾î°¡ Á¸ÀçÇÏ´Â °æ¿ì ¸ŞÀÎÈ­¸é¿¡ ÀÖ´Â "¿À´ÃÀÇ ´Ü¾î¸¦ ¸ÂÃçÁÖ¼¼¿ä" ¹öÆ°À» Å¬¸¯ÇÏ¿© ´Ü¾î Å×½ºÆ® ¾×Æ¼ºñÆ¼·Î ÀÌµ¿ ÇÒ ¼ö ÀÖ½À´Ï´Ù. ( 10°³ ÀÌÇÏ ÀÏ °æ¿ì Å¬¸¯ ½Ã 10°³ ÀÌ»óÀÇ ´Ü¾î¸¦ Ãß°¡ÇÏ¶ó´Â ¸Å¼¼Áö°¡ »ı¼ºµË´Ï´Ù.)
-2. ´Ü¾î Å×½ºÆ® ¾×Æ¼ºñÆ¼¿¡¼­´Â 10°³ÀÇ ´Ü¾î°¡ ¹«ÀÛÀ§·Î ¼±º°µÇ°í ÇÑ ´Ü¾î ´ç 4°¡Áö ¶æÀ» °ñ¶ó ¸ÂÃâ ¼ö ÀÖ´Â ±â´ÉÀ» Á¦°øÇÕ´Ï´Ù.
+## ì˜¤ëŠ˜ì˜ ë‹¨ì–´
+1. ë‚˜ë§Œì˜ ë‹¨ì–´ì¥ì— 10ê°œ ì´ìƒì˜ ë‹¨ì–´ê°€ ì¡´ì¬í•˜ëŠ” ê²½ìš° ë©”ì¸í™”ë©´ì— ìˆëŠ” "ì˜¤ëŠ˜ì˜ ë‹¨ì–´ë¥¼ ë§ì¶°ì£¼ì„¸ìš”" ë²„íŠ¼ì„ í´ë¦­í•˜ì—¬ ë‹¨ì–´ í…ŒìŠ¤íŠ¸ ì•¡í‹°ë¹„í‹°ë¡œ ì´ë™ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤. ( 10ê°œ ì´í•˜ ì¼ ê²½ìš° í´ë¦­ ì‹œ 10ê°œ ì´ìƒì˜ ë‹¨ì–´ë¥¼ ì¶”ê°€í•˜ë¼ëŠ” ë§¤ì„¸ì§€ê°€ ìƒì„±ë©ë‹ˆë‹¤.)
+2. ë‹¨ì–´ í…ŒìŠ¤íŠ¸ ì•¡í‹°ë¹„í‹°ì—ì„œëŠ” 10ê°œì˜ ë‹¨ì–´ê°€ ë¬´ì‘ìœ„ë¡œ ì„ ë³„ë˜ê³  í•œ ë‹¨ì–´ ë‹¹ 4ê°€ì§€ ëœ»ì„ ê³¨ë¼ ë§ì¶œ ìˆ˜ ìˆëŠ” ê¸°ëŠ¥ì„ ì œê³µí•©ë‹ˆë‹¤.
 3. 
 ![enter image description here](https://lh3.googleusercontent.com/xn4vWMHbw1Pf9-owfvtmHNLh3iy1esz05l5H2DjRd-pPsOJai1PzzLKNRRzqhx8gqd42ElWMd-tf)![enter image description here](https://lh3.googleusercontent.com/G2JkmBDFYIvBG613f56ue0LSWeKhBY8U4MU0Uy9UHnAmVjvldwdZV_Yuj3CdY4AZBp1uBp4aW3A2)
 
-## ´Ù±¹¾î Áö¿ø
-ÆË¼ÛÀ¸·Î ¿µ¾î¸¦ °øºÎÇÏ°í ½ÍÀº°Ç ºñ´Ü ÇÑ±¹ÀÎ »Ó¸¸ÀÌ ¾Æ´Õ´Ï´Ù. LEBPS´Â Áß±¹¾î, ÀÏº»¾î±îÁö Áö¿øÇÏ´Â ¹ø¿ª ¹× Áö¿øÇÏ´Â ±â´ÉÀ» °¡Áö°í ÀÖ½À´Ï´Ù.
-(»ç¿ëÀÚÀÇ È¯°æ¼³Á¤¿¡¼­ »ç¿ë¾ğ¾î¸¦ °¡Á®¿À±â ¶§¹®¿¡ µû·Î ¾ğ¾î¸¦ ¼³Á¤ ÇÒ ÇÊ¿ä°¡ ¾ø½À´Ï´Ù.)
+## ë‹¤êµ­ì–´ ì§€ì›
+íŒì†¡ìœ¼ë¡œ ì˜ì–´ë¥¼ ê³µë¶€í•˜ê³  ì‹¶ì€ê±´ ë¹„ë‹¨ í•œêµ­ì¸ ë¿ë§Œì´ ì•„ë‹™ë‹ˆë‹¤. LEBPSëŠ” ì¤‘êµ­ì–´, ì¼ë³¸ì–´ê¹Œì§€ ì§€ì›í•˜ëŠ” ë²ˆì—­ ë° ì§€ì›í•˜ëŠ” ê¸°ëŠ¥ì„ ê°€ì§€ê³  ìˆìŠµë‹ˆë‹¤.
+(ì‚¬ìš©ìì˜ í™˜ê²½ì„¤ì •ì—ì„œ ì‚¬ìš©ì–¸ì–´ë¥¼ ê°€ì ¸ì˜¤ê¸° ë•Œë¬¸ì— ë”°ë¡œ ì–¸ì–´ë¥¼ ì„¤ì • í•  í•„ìš”ê°€ ì—†ìŠµë‹ˆë‹¤.)
 
-> ÀÏº»¾î
+> ì¼ë³¸ì–´
 > 
 ![enter image description here](https://lh3.googleusercontent.com/T3-x1_QuKt1dtSm5ARwt4KiSElEEd_ukZ2lMmfQMVkHjkt5lPIWLJ0qiALZ9o0BWLv-dTXkcZA6Q)![enter image description here](https://lh3.googleusercontent.com/apZ-Wa_NxM1Pd9nFvi106HG3YBKaG1abGdn5cKnha56VB9jHiKZgCblOYfdUXWD9o7vhjL6a-Z0D)![enter image description here](https://lh3.googleusercontent.com/qmt3e7JHXv4n-i_JpCFGFUeL6gJ1xxNMXXfSskFXK5RSK6g0iIa2WnQ29WQsY4LSmWdzJ7paL-HY)![enter image description here](https://lh3.googleusercontent.com/WRsy43aQCxYP68Re645K7JLnEpObeyVViv4_nIT2rWuXc-Lqf5aFkxwE84FhcuXJpf-V180ka7Yd)
 
-> Áß±¹¾î
+> ì¤‘êµ­ì–´
 > 
 ![enter image description here](https://lh3.googleusercontent.com/28rf0PF8QEniGD0gSuuX4RIGfPTT40G0ZGWRPGaAJiKPGWMf6j6QuCwCEFPQssuS68mYhNnAK_-7)![enter image description here](https://lh3.googleusercontent.com/FY--GCCa6YY7sMF-1ec2SNq3Oj_h5C5E0XB-8MfKFGMjciKFukbgYaSVDNdCdMZ8_5frjsTTT6f2)![enter image description here](https://lh3.googleusercontent.com/ij1XC9WmABbjLGgJ_EqpnhpOZLlKeDLP75p7T85z3zY4yEEnWJslBIfo11i_DtnsTZ-EgdZnP8V4)![enter image description here](https://lh3.googleusercontent.com/IRvqP6Uy3iHAp6akoRW9g0IiN-ZiLAgcLtizSL51Ji40qxYXxRAUe45sJfWr7kcLKVdYYlDcR3hZ)
 ## FlowChart
 
 ![enter image description here](https://lh3.googleusercontent.com/F1QjEKTZar3FJl8rujvFkhBjAXUwN140pF-AuWWRFbaPubHLFkrvM0Jf7_jkykM7YRDhtSj8ZMQL)
 
-¸µÅ©: https://drive.google.com/file/d/196raueUf-o3dMd3a7oC_GkmsEoiybNvB/view?usp=sharing
-## ÆÄÀÏ Á¤º¸ ¹× ¸ñ·Ï (File Manifest)
+ë§í¬: https://drive.google.com/file/d/196raueUf-o3dMd3a7oC_GkmsEoiybNvB/view?usp=sharing
+## íŒŒì¼ ì •ë³´ ë° ëª©ë¡ (File Manifest)
 
  - com.example.lebps(package)
 	 - DictionaryAPI
-		 - GetMean.class : »ı¼ºÀÚ·Î ¹ø¿ªÇÒ ¹®ÀÚ¿­À» Á¦°ø¹Ş°í Google Translation API¿¡ Á¢¼ÓÇØ¼­ ¹®ÀÚ¿­À» ¹ø¿ªÇÏ±â À§ÇÑ Å¬·¡½º
+		 - GetMean.class : ìƒì„±ìë¡œ ë²ˆì—­í•  ë¬¸ìì—´ì„ ì œê³µë°›ê³  Google Translation APIì— ì ‘ì†í•´ì„œ ë¬¸ìì—´ì„ ë²ˆì—­í•˜ê¸° ìœ„í•œ í´ë˜ìŠ¤
 	 - Lyrics_Activity
-		 - MyWordListViewAdapter.class : ³ª¸¸ÀÇ ´Ü¾îÀå¿¡ ÀÖ´Â ListView¿¡ µ¥ÀÌÅÍ¸¦ ¾÷·ÎµåÇÏ±â À§ÇÑ Å¬·¡½º
-		 - NaturalML,class : »ı¼ºÀÚ·Î ºĞ¼®ÇÒ ¹®ÀÚ¿­À» Á¦°ø¹Ş°í Google ML Natural Language API¿¡ Á¢¼ÓÇÏ¿© ¹®ÀÚ¿­À» ºĞ¼®, µ¥ÀÌÅÍ¸¦ ¹Ş¾Æ¼­ Ã³¸®ÇÏ±â À§ÇÑ Å¬·¡½º
-		 - TrackInfoActivity.class :  ¿ø¹® °¡»ç, ¹ø¿ªÀ» Á÷Á¢ Ã³¸®ÇÏ°í ´Ü¾îÀå, ¹®¹ı ºĞ¼® µîÀº ´Ù¸¥ Å¬·¡½º¿¡¼­ µ¥ÀÌÅÍ¸¦ ¹Ş¾Æ Ã³¸®ÇÏ´Â ¾×Æ¼ºñÆ¼ Å¬·¡½º
-		 - WordListViewAdapter.class : GetMean.class ¿Í NaturalML.class¸¦ È°¿ëÇÏ¿© ÃßÃâµÈ Áß¿äÇÑ ´Ü¾îµéÀ» ListView¿¡ ¾÷·ÎµåÇÏ±â À§ÇÑ Å¬·¡½º
+		 - MyWordListViewAdapter.class : ë‚˜ë§Œì˜ ë‹¨ì–´ì¥ì— ìˆëŠ” ListViewì— ë°ì´í„°ë¥¼ ì—…ë¡œë“œí•˜ê¸° ìœ„í•œ í´ë˜ìŠ¤
+		 - NaturalML,class : ìƒì„±ìë¡œ ë¶„ì„í•  ë¬¸ìì—´ì„ ì œê³µë°›ê³  Google ML Natural Language APIì— ì ‘ì†í•˜ì—¬ ë¬¸ìì—´ì„ ë¶„ì„, ë°ì´í„°ë¥¼ ë°›ì•„ì„œ ì²˜ë¦¬í•˜ê¸° ìœ„í•œ í´ë˜ìŠ¤
+		 - TrackInfoActivity.class :  ì›ë¬¸ ê°€ì‚¬, ë²ˆì—­ì„ ì§ì ‘ ì²˜ë¦¬í•˜ê³  ë‹¨ì–´ì¥, ë¬¸ë²• ë¶„ì„ ë“±ì€ ë‹¤ë¥¸ í´ë˜ìŠ¤ì—ì„œ ë°ì´í„°ë¥¼ ë°›ì•„ ì²˜ë¦¬í•˜ëŠ” ì•¡í‹°ë¹„í‹° í´ë˜ìŠ¤
+		 - WordListViewAdapter.class : GetMean.class ì™€ NaturalML.classë¥¼ í™œìš©í•˜ì—¬ ì¶”ì¶œëœ ì¤‘ìš”í•œ ë‹¨ì–´ë“¤ì„ ListViewì— ì—…ë¡œë“œí•˜ê¸° ìœ„í•œ í´ë˜ìŠ¤
 	 - TestWord
-		 - WordTestActivity.class : ³ª¸¸ÀÇ ´Ü¾îÀå¿¡¼­ 10°³ÀÇ ´Ü¾î¸¦ ÃßÃâÇÏ¿© ´Ü¾îÅ×½ºÆ® ±â´ÉÀ» Á¦°øÇÏ±â À§ÇÑ ¾×Æ¼ºñÆ¼ Å¬·¡½º
-		 - WordTestAdapter.class : ÃßÃâµÈ ´Ü¾îµéÀ» ListView¿¡ ¾÷·Îµå ÇÏ±â À§ÇÑ Å¬·¡½º
-	 - MainActivity : Musixmatch API¸¦ »ç¿ëÇÏ¿© À½¾ÇÀ» °Ë»öÇÏ°í ¸ŞÀÎÈ­¸éÀ» Ã³¸®ÇÏ´Â ¾×Æ¼ºñÆ¼ Å¬·¡½º
-	 - ListViewAdapter : ¸ŞÀÎÈ­¸éÀÇ À½¾Ç¸®½ºÆ®¿¡ Á¤º¸¸¦ ¾÷·ÎµåÇÏ±â À§ÇÑ Å¬·¡½º
+		 - WordTestActivity.class : ë‚˜ë§Œì˜ ë‹¨ì–´ì¥ì—ì„œ 10ê°œì˜ ë‹¨ì–´ë¥¼ ì¶”ì¶œí•˜ì—¬ ë‹¨ì–´í…ŒìŠ¤íŠ¸ ê¸°ëŠ¥ì„ ì œê³µí•˜ê¸° ìœ„í•œ ì•¡í‹°ë¹„í‹° í´ë˜ìŠ¤
+		 - WordTestAdapter.class : ì¶”ì¶œëœ ë‹¨ì–´ë“¤ì„ ListViewì— ì—…ë¡œë“œ í•˜ê¸° ìœ„í•œ í´ë˜ìŠ¤
+	 - MainActivity : Musixmatch APIë¥¼ ì‚¬ìš©í•˜ì—¬ ìŒì•…ì„ ê²€ìƒ‰í•˜ê³  ë©”ì¸í™”ë©´ì„ ì²˜ë¦¬í•˜ëŠ” ì•¡í‹°ë¹„í‹° í´ë˜ìŠ¤
+	 - ListViewAdapter : ë©”ì¸í™”ë©´ì˜ ìŒì•…ë¦¬ìŠ¤íŠ¸ì— ì •ë³´ë¥¼ ì—…ë¡œë“œí•˜ê¸° ìœ„í•œ í´ë˜ìŠ¤
 
-# ÀúÀÛ±Ç ¹× »ç¿ë±Ç Á¤º¸ (Copyright / End User License)
+# ì €ì‘ê¶Œ ë° ì‚¬ìš©ê¶Œ ì •ë³´ (Copyright / End User License)
 
-LEBPS¿¡¼­ »ç¿ëÇÏ´Â ¾ÆÀÌÄÜ, »çÁøÀº ¹«·á ÀúÀÛ±Ç »çÀÌÆ®¿¡¼­ ÂüÁ¶µÇ¾ú½À´Ï´Ù.
-ÂüÁ¶ »çÀÌÆ® : [https://unsplash.com/](https://unsplash.com/)
+LEBPSì—ì„œ ì‚¬ìš©í•˜ëŠ” ì•„ì´ì½˜, ì‚¬ì§„ì€ ë¬´ë£Œ ì €ì‘ê¶Œ ì‚¬ì´íŠ¸ì—ì„œ ì°¸ì¡°ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-# ¹èÆ÷ÀÚ ¹× °³¹ßÀÚÀÇ ¿¬¶ôÃ³ Á¤º¸ (Contact Information)
+ì°¸ì¡° ì‚¬ì´íŠ¸ : [https://unsplash.com/](https://unsplash.com/)
+
+# ë°°í¬ì ë° ê°œë°œìì˜ ì—°ë½ì²˜ ì •ë³´ (Contact Information)
 
 Name : Jae Seong Lee
+
 phone :  +821025066791	
+
 email :  lee01042000@gmail.com
 
-# ¾Ë·ÁÁø ¹ö±× (Known Issues)
+# ì•Œë ¤ì§„ ë²„ê·¸ (Known Issues)
 
-# ¹®Á¦ ¹ß»ı¿¡ ´ëÇÑ ÇØ°áÃ¥ (Troubleshooting)
+# ë¬¸ì œ ë°œìƒì— ëŒ€í•œ í•´ê²°ì±… (Troubleshooting)
 
-# Å©·¹µ÷ (Credit)
+# í¬ë ˆë”§ (Credit)
 
-# ¾÷µ¥ÀÌÆ® Á¤º¸ (Change Log)
+# ì—…ë°ì´íŠ¸ ì •ë³´ (Change Log)
