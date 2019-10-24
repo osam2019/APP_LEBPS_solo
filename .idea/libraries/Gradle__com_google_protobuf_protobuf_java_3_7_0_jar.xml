@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.protobuf:protobuf-java:3.7.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.7.0/dbb5e9230a91f2a6d011096c2b9c10a5a6e5f7f2/protobuf-java-3.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.7.0/b8d267b812fd75ffbef8812f68fd7bc7b8e82d4a/protobuf-java-3.7.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.7.0/8515df0375144538134cdf99018890410b03684c/protobuf-java-3.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

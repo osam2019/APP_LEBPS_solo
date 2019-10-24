@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LEBPS</string>
+    <string name="app_main">" 搜索您喜欢的流行歌曲"</string>
+    <string name="title">" 标题"</string>
+    <string name="artist">艺术家</string>
+    <string name="song">" 歌曲"</string>
+    <string name="translate">" 翻译"</string>
+    <string name="wordbook">字簿</string>
+    <string name="Syntax">句法</string>
+    <string name="myworldbook">" 我的世界书"</string>
+    <string name="loading1">正在检查内容...</string>
+    <string name="loading2">" 制作世界书..."</string>
+    <string name="error">请检查标题和艺术家</string>
+    <string name="noun">名詞</string>
+    <string name="verb">動詞</string>
+    <string name="setSyntaxSentence">" 今天的语法"</string>
+    <string name="setVerbSentence">" 今天的话"</string>
+    <string name="fillMywordbook">在您自己的词汇表中添加10个以上的单词！</string>
+    <string name="wordTestActivityMain">我的字簿里的今天的话</string>
+</resources>

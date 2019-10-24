@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "117634399904",
+    "firebase_url": "https://lebps-c319b.firebaseio.com",
+    "project_id": "lebps-c319b",
+    "storage_bucket": "lebps-c319b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117634399904:android:61c120bea1a674b64513c5",
+        "android_client_info": {
+          "package_name": "com.example.lebps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117634399904-5tr86fst84ue43gjskifqcsjhcp05eth.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lebps",
+            "certificate_hash": "042c13c8a0fac00081e715e1b12e6819e826f5ea"
+          }
+        },
+        {
+          "client_id": "117634399904-5103pbpaj0auk8oa2mpd21orahj9mshk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt1OEMgOny5Ildjw0_Rj-HPT8d5pOLCBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117634399904-5103pbpaj0auk8oa2mpd21orahj9mshk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

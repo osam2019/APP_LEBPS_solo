@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sachinhandiekar:jMusixMatch:1.1.4@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sachinhandiekar/jMusixMatch/1.1.4/b6fc4ea98bfcb804a5993afcd5d3c11485f61f98/jMusixMatch-1.1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sachinhandiekar/jMusixMatch/1.1.4/95d4a6908798ba5e7fe1768b164717add9d9a57b/jMusixMatch-1.1.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sachinhandiekar/jMusixMatch/1.1.4/d2036ec210d26b197c4705e468990ea0622a8bab/jMusixMatch-1.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

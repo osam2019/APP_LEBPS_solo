@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.grpc:grpc-protobuf:1.19.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-protobuf/1.19.0/21964ce4b695d50e826c93b362f2c710d57028ae/grpc-protobuf-1.19.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-protobuf/1.19.0/403ac256e9f15d6e9b7ffef8eca2ad9c062b9457/grpc-protobuf-1.19.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-protobuf/1.19.0/b8ee571a759c90f6ec536507cfb7359dc0709924/grpc-protobuf-1.19.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

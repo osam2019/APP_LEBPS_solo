@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LEBPS</string>
+    <string name="app_main">Search for your favorite pop song </string>
+    <string name="title">title</string>
+    <string name="artist">artist</string>
+    <string name="song">song</string>
+    <string name="translate">translate</string>
+    <string name="wordbook">Wordbook</string>
+    <string name="Syntax">Syntax</string>
+    <string name="myworldbook">My worldbook</string>
+    <string name="loading1">Checking Content...</string>
+    <string name="loading2">Making worldbook ...</string>
+    <string name="error">Please check title and artist</string>
+    <string name="noun">Noun</string>
+    <string name="verb">Verb</string>
+    <string name="setVerbSentence">Check today\'s word!</string>
+    <string name="setSyntaxSentence">Check today\'s syntax!</string>
+    <string name="fillMywordbook">Add more than 10 words to your own vocabulary!</string>
+    <string name="wordTestActivityMain">Today\'s word from my wordbook</string>
+</resources>

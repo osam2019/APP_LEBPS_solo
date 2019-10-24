@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LEBPS</string>
+    <string name="app_main">원하는 팝송을 검색해보세요</string>
+    <string name="title">제목</string>
+    <string name="artist">아티스트</string>
+    <string name="song">가사</string>
+    <string name="translate">번역</string>
+    <string name="wordbook">단어장</string>
+    <string name="Syntax">문법</string>
+    <string name="myworldbook">나만의 단어장</string>
+    <string name="loading1">음악을 검색중입니다...</string>
+    <string name="loading2">단어장을 생성중입니다...</string>
+    <string name="error">제목과 아티스트를 정확히 입력해주세요</string>
+    <string name="noun">명사</string>
+    <string name="verb">동사</string>
+    <string name="setSyntaxSentence">오늘의 문법을 맞춰주세요</string>
+    <string name="setVerbSentence">오늘의 단어를 맞춰주세요</string>
+    <string name="fillMywordbook">나만의 단어장에 10개 이상의 단어를 추가해주세요!</string>
+    <string name="wordTestActivityMain">나만의 단어장에서 가져온 오늘의 단어</string>
+</resources>

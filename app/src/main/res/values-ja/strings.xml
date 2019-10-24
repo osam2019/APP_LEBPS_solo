@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LEBPS</string>
+    <string name="app_main">" お気に入りのポップソングを検索する"</string>
+    <string name="title">タイトル</string>
+    <string name="artist">アーティスト</string>
+    <string name="song">歌</string>
+    <string name="translate">" 翻訳する"</string>
+    <string name="wordbook">" ワードブック"</string>
+    <string name="Syntax">構文</string>
+    <string name="myworldbook">" 私のワールドブック"</string>
+    <string name="loading1">コンテンツを確認しています...</string>
+    <string name="loading2">" ワールドブックの作成..."</string>
+    <string name="error">タイトルとアーティストを確認してください</string>
+    <string name="noun">名詞</string>
+    <string name="verb">動詞</string>
+    <string name="setSyntaxSentence">今日の構文</string>
+    <string name="setVerbSentence">"  今日の言葉"</string>
+    <string name="fillMywordbook">" あなた自身の語彙に10以上の単語を追加してください！"</string>
+    <string name="wordTestActivityMain">私の単語帳から今日の言葉</string>
+</resources>
